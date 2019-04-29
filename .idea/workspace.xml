@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33eb661a-448f-4fd0-91ca-02b3dc324ce0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/轻松背单词/s_links.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +14,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/新东方在线/XDF_N2.py">
+        <entry file="file://$PROJECT_DIR$/轻松背单词/J_textWords_Parse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+            <state relative-caret-position="102">
+              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              <folding>
+                <element signature="e#30#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/轻松背单词/J_textWords_links.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1343">
+              <caret line="82" column="34" selection-start-line="82" selection-start-column="15" selection-end-line="82" selection-end-column="34" />
+              <folding>
+                <element signature="e#30#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/轻松背单词/s_links.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/轻松背单词/import_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -47,14 +81,19 @@
         <option value="$PROJECT_DIR$/新东方在线/XDF_CH.py" />
         <option value="$PROJECT_DIR$/新东方在线/XDF_YF.py" />
         <option value="$PROJECT_DIR$/新东方在线/XDF_N2.py" />
+        <option value="$PROJECT_DIR$/轻松背单词/J_textWords_links.py" />
+        <option value="$PROJECT_DIR$/轻松背单词/__init__.py" />
+        <option value="$PROJECT_DIR$/轻松背单词/import_test.py" />
+        <option value="$PROJECT_DIR$/轻松背单词/s_links.py" />
+        <option value="$PROJECT_DIR$/轻松背单词/J_textWords_Parse.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="540" />
-    <option name="y" value="100" />
-    <option name="width" value="1247" />
-    <option name="height" value="558" />
+    <option name="x" value="290" />
+    <option name="y" value="134" />
+    <option name="width" value="1217" />
+    <option name="height" value="588" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -73,22 +112,17 @@
             <path>
               <item name="JLPT_Spider" type="b2602c69:ProjectViewProjectNode" />
               <item name="JLPT_Spider" type="462c0819:PsiDirectoryNode" />
-              <item name="新东方在线" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JLPT_Spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JLPT_Spider" type="462c0819:PsiDirectoryNode" />
-              <item name="日语文法假名个数统计分析" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JLPT_Spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JLPT_Spider" type="462c0819:PsiDirectoryNode" />
               <item name="日语自学网" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JLPT_Spider" type="b2602c69:ProjectViewProjectNode" />
               <item name="JLPT_Spider" type="462c0819:PsiDirectoryNode" />
               <item name="沪江网校" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JLPT_Spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JLPT_Spider" type="462c0819:PsiDirectoryNode" />
+              <item name="轻松背单词" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -113,8 +147,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.XDF_N2">
-    <configuration name="Es" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.J_textWords_Parse">
+    <configuration name="J_textWords_Parse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JLPT_Spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/沪江网校" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/轻松背单词" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/沪江网校/Es.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/轻松背单词/J_textWords_Parse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="XDF_CH" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="J_textWords_links" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JLPT_Spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +177,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/新东方在线" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/轻松背单词" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/新东方在线/XDF_CH.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/轻松背单词/J_textWords_links.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="XDF_YF" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="import_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JLPT_Spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,11 +219,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/新东方在线" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/轻松背单词" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/新东方在线/XDF_YF.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/轻松背单词/import_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s_links" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="JLPT_Spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,11 +240,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/沪江网校" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/轻松背单词" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/沪江网校/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/轻松背单词/s_links.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.J_textWords_Parse" />
+        <item itemvalue="Python.s_links" />
+        <item itemvalue="Python.import_test" />
+        <item itemvalue="Python.J_textWords_links" />
         <item itemvalue="Python.XDF_N2" />
-        <item itemvalue="Python.XDF_YF" />
-        <item itemvalue="Python.XDF_CH" />
-        <item itemvalue="Python.Es" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -251,13 +285,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.52272725" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41083917" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32867134" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -266,30 +300,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/沪江网校/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/沪江网校/Es.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="90" selection-start-line="90" selection-end-line="101" selection-end-column="1" />
-          <folding>
-            <element signature="e#26#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/新东方在线/XDF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/新东方在线/XDF.py" />
     <entry file="file://$PROJECT_DIR$/新东方在线/XDF_CH.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
@@ -306,8 +317,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/新东方在线/XDF_N2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="408">
           <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/沪江网校/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/沪江网校/Es.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="15" selection-start-line="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="e#26#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/轻松背单词/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/轻松背单词/import_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/轻松背单词/s_links.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/轻松背单词/J_textWords_links.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="82" column="34" selection-start-line="82" selection-start-column="15" selection-end-line="82" selection-end-column="34" />
+          <folding>
+            <element signature="e#30#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/轻松背单词/J_textWords_Parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="e#30#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
